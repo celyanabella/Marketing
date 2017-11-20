@@ -1,0 +1,219 @@
+
+
+#gourllogin {
+	margin: 70px 0 90px 0;
+	max-width: 430px;
+	font-family: 'Open Sans', Arial, sans-serif;
+	box-sizing: border-box;
+	text-align: center;
+	height: auto;
+}
+
+#gourllogin h3 {
+	margin: 40px 0 30px 0;
+}
+
+
+#gourllogin .login {
+	padding: 0 10px 20px 10px;
+	border: 1px solid #eee;
+	border-radius: 30px;
+	height: auto;
+}
+
+#gourllogin .app-title {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+#gourllogin .app-title h3 {
+	font-size: 18px;
+}
+
+#gourllogin .login-form {
+	text-align: center;
+}
+
+#gourllogin .control-group {
+	margin-bottom: 10px;
+}
+
+#gourllogin input {
+	text-align: center;
+	background-color: #ECF0F1;
+	border: 2px solid transparent;
+	border-radius: 3px;
+	font-size: 16px;
+	font-weight: 200;
+	padding: 10px 0;
+	margin-bottom: 5px;
+	width: 280px;
+	transition: border .5s;
+}
+
+#gourllogin input:focus {
+	border: 2px solid #3498DB;
+	box-shadow: none;
+}
+
+#gourllogin .btn {
+	border: 2px solid transparent;
+	background: #3498DB;
+	color: #ffffff;
+	font-size: 16px;
+	line-height: 25px;
+	height: 50px;
+	padding: 10px 0;
+	text-decoration: none;
+	text-shadow: none;
+	border-radius: 3px;
+	box-shadow: none;
+	transition: 0.25s;
+	display: block;
+	width: 250px;
+	margin: 20px auto;
+}
+
+#gourllogin .btn:hover {
+	background-color: #2980B9;
+}
+
+#gourllogin .login-link {
+	font-size: 12px;
+	display: block;
+	padding-top: 5px;
+	border-bottom: none;
+}
+
+#gourllogin .reg-link {
+	font-size: 12px;
+	display: block;
+	margin-top: 10px;
+	border-bottom: none;
+}
+
+.gourlbox {
+	padding-top: 10px;
+	font-weight: normal;
+	text-align: center;
+}
+
+.gourlbox h1 {
+	padding: 30px;
+	margin: 0;
+	font-weight: normal;
+	text-align: center;
+}
+
+.gourlbox h3 {
+	padding: 5px;
+	margin: 0;
+	line-height: 140%;
+	font-weight: normal;
+	text-align: center;
+}
+
+.gourlbox .gourlprice {
+	margin: 7px;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+}
+
+.gourlbox .gourlprice h3 {
+	text-align: center;
+}
+
+.gourlbox img {
+	border: none;
+	box-shadow: none;
+	max-width: 100%;
+}
+
+.gourlfiledescription, .gourldownloadlink
+{
+	font-weight: normal;
+	text-align: center;
+}
+
+#gourlcryptocoins {
+	color: #444;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	height: auto;
+	line-height: 19px;
+	width: auto;
+	text-align: center;
+}
+
+#gourlcryptocoins a {
+	text-decoration: none;
+	box-shadow: none;
+	border: 0 solid #fff;
+}
+
+#gourlcryptocoins img {
+	display: inline;
+}
+
+.gourlbox .gourlimg {
+	margin: 30px 0 20px 0;
+	border-radius:15px;
+	border: 0;
+	text-align: center;
+}
+
+.gourlbox .gourldownloadlink {
+	margin: 0;
+	text-align: center;
+}
+
+.gourlmembershipprice, .gourlmembershipprice2 {
+	position: absolute;
+	margin: 75px 0 0 125px;
+	overflow: hidden;
+	font-size: 34px;
+	line-height: 28px;
+	color: #444;
+	width: 555px;
+}
+	
+.gourlmembershipprice span {	
+	font-size: 18px;
+}	
+
+.gourlmembershipprice2 {  
+	margin-top: 65px;
+	font-size: 30px;
+}
+
+.gourlmembershipprice2 span {	
+	font-size: 16px;
+}  
+
+.gourlfiletext {
+	text-align: center;
+}
+
+.gourlproducttext {
+	margin: 30px 0 20px 0;
+	text-align: center;
+}
+
+.gourlviewtext {
+	text-align: center;
+}
+
+.gourlmembershiptext {
+	text-align: center;
+}
+
+.gourlmembershiptext2 {
+
+}      
+
+.edd-order-tx-id span {
+word-break: break-all; 
+}
+
+.woocommerce > .woocommerce-order > ul.woocommerce-thankyou-order-details li { margin-bottom: 15px; }
